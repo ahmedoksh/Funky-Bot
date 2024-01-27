@@ -4,3 +4,4 @@ run.sh
 __pycache__
 .DS_STORE
 .vscode
+env
